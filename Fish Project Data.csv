@@ -1,0 +1,21 @@
+Fish_ID,Species,Weight,Length,Age,Total_Fin_Length,Girth,Height,Water_Temperature,Salinity,Depth,Catch_Frequency,Diet_Type,Conservation_Status
+1,Salmon,2450,143,7,39,89,58,13.89,2.58,431,47,Carnivore,Least Concern
+2,Trout,1949,88,7,9,83,48,10.88,14.85,223,4,Herbivore,Least Concern
+3,Bass,2675,130,10,11,55,37,18.81,19.73,59,49,Carnivore,Threatened
+4,Tuna,2434,41,10,16,24,41,19.7,15.5,981,7,Herbivore,Endangered
+5,Cod,4082,105,8,8,30,53,8.14,7.85,431,38,Omnivore,Least Concern
+6,Halibut,4214,116,9,39,31,15,27.9,24.08,578,22,Omnivore,Endangered
+7,Herring,4225,104,5,40,46,47,19.94,25.92,708,17,Carnivore,Endangered
+8,Sardine,4231,68,7,11,53,18,19.63,22.75,859,35,Herbivore,Least Concern
+9,Perch,3688,69,4,28,71,18,21.39,1.24,647,25,Omnivore,Endangered
+10,Mackerel,1428,41,6,33,30,38,26.74,13.1,327,3,Herbivore,Least Concern
+11,Anchovy,3710,89,6,37,15,50,13.01,17.39,709,18,Herbivore,Threatened
+12,Swordfish,3144,141,6,36,61,59,18.71,24.09,705,32,Carnivore,Endangered
+13,Guppy,957,30,10,15,45,47,18.67,28.58,746,13,Herbivore,Least Concern
+14,Carp,1871,67,7,7,50,23,5.65,0.71,734,19,Herbivore,Threatened
+15,Tilapia,3209,113,8,6,17,47,25.87,31.23,65,45,Carnivore,Least Concern
+16,Barracuda,1025,142,4,8,81,18,5.19,10.15,896,9,Herbivore,Least Concern
+17,Shark,4958,112,3,6,20,37,29.24,14.58,206,32,Herbivore,Endangered
+18,Sturgeon,1405,95,3,36,57,19,13.77,20.72,301,12,Omnivore,Least Concern
+19,Eel,4973,82,1,15,63,10,14.76,25.31,271,6,Omnivore,Least Concern
+20,Flounder,1708,99,10,19,66,26,5.49,33.75,764,39,Carnivore,Endangered
